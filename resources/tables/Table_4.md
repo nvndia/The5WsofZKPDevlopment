@@ -1,4 +1,4 @@
-Table Showing Tools Suitable for Implementation Phase
+**Table Showing Tools Suitable for Implementation Phase**
 | Repository        | Age | Stars | Forks | Watchers | Issues | AppCount | CommitCount | ContributorCount | Active |
 |---------------------------------|--------------|----------------|----------------|-------------------|-----------------|-------------------|----------------------|---------------------------|-----------------|
 | bellman/zkcrypto                | 2879         | 823            | 582            | 823               | 30              | 30                | 353                  | 18                        | True            |
