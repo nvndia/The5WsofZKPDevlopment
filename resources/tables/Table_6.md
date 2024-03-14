@@ -1,4 +1,4 @@
-Table showing level of abstraction and tool types
+**Table showing level of abstraction and tool types**
 
 | Name                | Abstraction Level | Tool Type        |
 |----------------------------|----------------------------|--------------------------|
