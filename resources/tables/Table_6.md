@@ -1,3 +1,5 @@
+Table showing level of abstraction and tool types
+
 | Name                | Abstraction Level | Tool Type        |
 |----------------------------|----------------------------|--------------------------|
 | zksync                     | Pythonic                   | zkEVM                    |
